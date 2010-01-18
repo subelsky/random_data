@@ -1,0 +1,1 @@
+- Change name of Random class since Ruby 1.9.2 implements a class with this name (plus it was a bad name anyway)
